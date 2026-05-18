@@ -178,7 +178,7 @@ If you found this repository helpful, please cite our reports:
 
 ## 🤗 Community Integrations
 We appreciate the community for creating integrations for HY-Motion! Here are some third-party implementations:
-
+- [Kaggle Notebook Implementation](https://www.kaggle.com/code/kushagra77kushwaha/hy-motion-1-0) by [@kushagra77kushwaha](https://github.com/kkso19999999-design) — An optimized, one-click CLI environment pre-configured to run text-to-animation generations seamlessly on free-tier P100 GPUs.
 - [ComfyUI-HY-Motion1](https://github.com/jtydhr88/ComfyUI-HY-Motion1) by [@jtydhr88](https://github.com/jtydhr88)
 
 ## Acknowledgements
